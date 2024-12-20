@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Trade Website Extension",
+    "name": "POE2 Trade Website into KR Extension",
     "version": "1.0",
     "description": "Opens POE2 trade website and translates the page.",
     "permissions": ["tabs", "scripting"],
